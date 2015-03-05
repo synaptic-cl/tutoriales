@@ -4,16 +4,19 @@
 Son pequeños programas que se pueden ejecutar de forma independiente y cuyo objetivo es verificar el buen funcionamiento de partes aisladas de tu aplicación (función, clase).
 En la practica las pruebas unitarias tienen la estructura siguiente (patrón AAA)
 
-Otra forma de verlo es que las pruebas unitarias son como una interpolación de una función 
-![alt text](/PruebasUnitarias/interpolacion.png)
-
-
 * ARRANGE
  * Se preparan los datos
 * ACT
  * Se estimula el sistema a probar
 * ASSERT
  * Se verifica que el sistema se comporta como esperado
+
+
+
+Otra forma de verlo es que las pruebas unitarias son como una interpolación de una función 
+![alt text](/PruebasUnitarias/interpolacion.png)
+
+
 
  Ejemplo:
 
