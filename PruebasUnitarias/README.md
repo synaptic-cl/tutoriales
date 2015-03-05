@@ -5,7 +5,7 @@ Son pequeños programas que se pueden ejecutar de forma independiente y cuyo obj
 En la practica las pruebas unitarias tiene la estructura siguiente (patrón AAA)
 
 Otra forma de verlo es que las pruebas unitarias son como una interpolación de una función 
-![alt text](http://en.wikipedia.org/wiki/Polynomial_interpolation#mediaviewer/File:Interpolation_example_polynomial.svg)
+![alt text](/PruebasUnitarias/interpolacion.png)
 
 
 * ARRANGE
